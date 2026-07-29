@@ -1,0 +1,6 @@
+.env
+__pycache__/
+*.pyc
+user_prefs.json
+.venv/
+venv/
